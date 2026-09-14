@@ -132,3 +132,4 @@ dist
 .pnp.*
 giftlink-backend/util/import-mongo/.env
 giftlink-backend/.env
+giftlink-frontend/src/.env
