@@ -131,3 +131,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 giftlink-backend/util/import-mongo/.env
+giftlink-backend/.env
